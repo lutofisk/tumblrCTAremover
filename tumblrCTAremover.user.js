@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         tumblerCTAremover
-// @namespace    jgfdcdjfgkhvjfvgjasda
+// @namespace    jgfdcdjkhgjfvgjasdaluto
 // @version      2.0
 // @description  Removes Tumblr's "Never miss a post from" "Download the App" Reminder
 // @author       Lutofisk
